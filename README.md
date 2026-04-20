@@ -90,5 +90,4 @@ This highlights that robustness and stability are often more important to optimi
 This project is intended purely for learning purposes.As the strategy used here are not useful or good for real life trading , its just a simple basic model of how wealth can be added up and grown with small significant returns and changes in market .
 
 
-By -
-Krish Kumar Pal
+
